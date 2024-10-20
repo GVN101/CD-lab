@@ -88,3 +88,21 @@ void change(int p, char *res) {
             strcpy(arr[i].op2, res); // Update second operand
     }
 }
+
+
+// INPUT :
+
+//     Enter the maximum number of expressions : 4
+
+//     Enter the input :
+//     = 3 - a
+//     + a b t1
+//     + a c t2
+//     + t1 t2 t3
+
+// OUTPUT :
+
+//     Optimized code is :
+//     + 3 b t1 
+//     + 3 c t2
+//     + t1 t2 t3
