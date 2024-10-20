@@ -1,3 +1,9 @@
+/**
+ * The program takes input expressions, folds them to constants if possible, and outputs the optimized
+ * code.
+ * 
+ * @return The program is returning 0, which indicates successful execution.
+ */
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
