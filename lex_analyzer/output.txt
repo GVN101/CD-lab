@@ -1,0 +1,14 @@
+Line no. 	 Token no. 		 Token 		 Lexeme
+
+      3		       1		 Identifier	  printf
+      3		       2		 Identifier	   hello
+      3		       3		 Identifier	   World
+      3		       4		 Special symbol	       )
+      3		       5		 Special symbol	       ;
+      4		       6		 Identifier	  printf
+      4		       7		 Identifier	       a
+      4		       8		 Special symbol	       ;
+      6		       9		 Identifier	  return
+      6		      10		 Digit		       0
+      6		      11		 Special symbol	       ;
+      8		      12		 Special symbol	       }

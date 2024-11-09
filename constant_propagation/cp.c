@@ -94,11 +94,11 @@ void change(int p, char *res) {
 
 //     Enter the maximum number of expressions : 4
 
-//     Enter the input :
-//     = 3 - a
-//     + a b t1
-//     + a c t2
-//     + t1 t2 t3
+    // Enter the input :
+    // = 3 - a
+    // + a b t1
+    // + a c t2
+    // + t1 t2 t3
 
 // OUTPUT :
 
